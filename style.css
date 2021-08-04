@@ -1,0 +1,118 @@
+.fejlec{
+    justify-content: center;
+    border: 1px solid rgb(33, 25, 143);
+    height: 100px;
+    /*width: auto;*/
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: url(kepek/felhos_eg.jpg);
+    color: rgb(43, 212, 224);
+    display: flex;
+    border-radius: 5px;
+    
+}
+
+.container{
+    width: auto;
+    margin-left: 2%;
+    margin-right: 2%;
+    border: 1px solid black;
+    display: flex;
+}
+
+.hirlevel h3{
+    margin-top: 0;
+}
+.hirlevel{
+    width: 600px;
+    color: grey;
+    border: solid thin #cfcfcf;
+    padding: 10px;
+    border-radius: 3px;
+    padding-bottom: 20px;
+    justify-content: center;
+    margin: 10px 20px;   
+}
+
+.hirlevel button{
+    background-color: chartreuse;
+    border: none;
+    color: green;
+    /*display: block;*/
+    width: 150px;
+    height: 25px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.hirlevel input#email{
+    width: 150px;
+    height: 25px;
+    background-color: coral;
+    border: none;
+    border-radius: 10px;
+
+}
+   
+#oldalterkep{
+   /* border: 1px solid black;*/
+    width: 300px;;
+    display: block;
+    text-align: center;
+}
+
+.menu{
+    width: 250px;
+    margin: 10px 50% 10px 10px;
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 10%;
+}
+
+h2{
+    color: orangered;
+   
+}
+.terkep{
+    background-color: darkgoldenrod;
+}
+
+.beke{
+    color: aquamarine;
+
+}
+.beke:hover{
+    color: darkturquoise;
+}
+a{
+    text-decoration: none;
+}
+
+.mereg{
+    color: brown;
+}
+
+.mereg:hover{
+    color: red;
+}
+
+.lelek{
+    color: lightskyblue;
+}
+.lelek:hover{
+    color: paleturquoise;
+}
+.nyugtat{
+    color: tan;
+}
+.nyugtat:hover{
+    color: rgb(190, 245, 88);
+}
+
+
+.csemege{
+    color: chocolate;
+}
+.csemege:hover{
+    color: rgb(80, 37, 6)
+}

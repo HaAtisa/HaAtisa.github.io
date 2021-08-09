@@ -48,7 +48,7 @@
 .hirlevel input#email{
     width: 150px;
     height: 25px;
-    background-color: coral;
+    background-color: rgb(245, 190, 170);
     border: none;
     border-radius: 10px;
 

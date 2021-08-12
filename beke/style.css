@@ -1,0 +1,16 @@
+header{
+  /border: 1px solid gray;
+   border-radius: 5px;
+   height: 200px;
+   width: 200px;
+   margin-left: 25%;
+   margin-right: 25%; 
+   background: no-repeat center/80% url(/beke/kepek/jing-jang.jpg);
+   background-size: cover; /* a háttérkép átméretezése, hogy teljesen kitöltse a dobozt */
+   background-position: center;
+   width: 80%;
+   height: 400px;
+   margin-right: auto; /* a böngésző határozza meg a jobb margót */
+   margin-left: auto; /* a böngésző határozza meg a bal margót, a margin-right: auto;-val azt eredményezi, hogy a doboz vízszintesen középre kerül */
+   position: relative; /* az alapértelmezett helyéhez képest helyezkedik el; azért kell, hogy a benne lévő h1-nél position: absolute lehessen*/  
+}

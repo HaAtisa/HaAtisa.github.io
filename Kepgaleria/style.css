@@ -1,8 +1,8 @@
 #vissza{
-    color: red;   
+    color: rgb(171, 226, 81);   
 }
 #vissza:hover{
-    color: green;
+    color: rgb(196, 53, 61);
 }
 img{
     width: 300px;
@@ -13,4 +13,14 @@ img:hover{
     width: 400px;
     height: 400px;
     margin: 0;
+}
+a{
+    border: 1px solid red;
+    border-radius: 10px;
+    text-decoration: none;
+    position: fixed;
+    top: 10px;
+    left: 100px;
+    color:aquamarine;
+    background-color: blue;
 }

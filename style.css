@@ -8,8 +8,11 @@
     background-image: url(kepek/felhos_eg.jpg);
     color: rgb(43, 212, 224);
     display: flex;
-    border-radius: 5px;
-    
+    border-radius: 5px;  
+}
+main{
+    background-color: greenyellow;
+    border-radius: 10px;;
 }
 
 .container{
@@ -71,6 +74,7 @@
 
 h2{
     color: orangered;
+    border-radius: 10px;
    
 }
 .terkep{
@@ -78,7 +82,7 @@ h2{
 }
 
 .beke{
-    color: aquamarine;
+    color: rgb(41, 134, 103);
 
 }
 .beke:hover{

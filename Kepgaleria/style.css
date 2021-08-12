@@ -6,10 +6,10 @@
 }
 
 #vissza{
-    color: rgb(171, 226, 81);   
+    /*color: rgb(171, 226, 81);*/   
 }
 #vissza:hover{
-    color: rgb(196, 53, 61);
+color: rgb(196, 53, 61);
 }
 img{
     width: 300px;
@@ -22,6 +22,7 @@ img:hover{
     margin: 0;
 }
 a{
+    width: 60px;
     border: 1px solid red;
     border-radius: 10px;
     text-decoration: none;
@@ -30,4 +31,5 @@ a{
     left: 100px;
     color:aquamarine;
     background-color: blue;
+    
 }

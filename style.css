@@ -56,6 +56,18 @@ main{
     border-radius: 10px;
 
 }
+
+.hirlevel input#email:hover{
+    color: rgb(230, 119, 215);
+}
+
+#mailme{
+   /* border: 1px solid red;*/
+    margin-left: 100px;
+}
+#mailme:hover{
+    color: red;
+}
    
 #oldalterkep{
    /* border: 1px solid black;*/
